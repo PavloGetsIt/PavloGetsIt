@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PavloGetsIt
-- 👀 I’m interested in Web Dev, Design, Blockchain Web Dev
+- 👁 I’m interested in web Dev for small businesses/block chain websites
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on (Nothing yet, just learning on my own for now)
 - 📫 How to reach me (Here on GitHub)
 
 
